@@ -5,12 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+- **Robustness of Demonstration-based Learning Under Limited Data Scenario**
 
-{% include base_path %}
+  **Hongxin Zhang**, Yanzhe Zhang , Ruiyi Zhang, Diyi Yang
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+  EMNLP 2022 [[Arxiv](https://arxiv.org/abs/2210.10693) | [Code](https://github.com/SALT-NLP/RobustDemo)]
