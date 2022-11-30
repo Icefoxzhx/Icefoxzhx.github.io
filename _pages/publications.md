@@ -9,4 +9,4 @@ author_profile: true
 
   **Hongxin Zhang**, Yanzhe Zhang , Ruiyi Zhang, Diyi Yang
 
-  EMNLP 2022 [[Arxiv](https://arxiv.org/abs/2210.10693) | [Code](https://github.com/SALT-NLP/RobustDemo)]
+  EMNLP 2022 [[Arxiv](https://arxiv.org/abs/2210.10693)] [[Code](https://github.com/SALT-NLP/RobustDemo)]
