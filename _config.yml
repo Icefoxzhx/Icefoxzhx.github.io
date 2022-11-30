@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Hongxin Zhang's Homepage"
 title_separator          : "-"
 name                     : &name "Hongxin Zhang"
-description              : &description "personal description"
+description              : &description "Hongxin Zhang"
 url                      : https://icefoxzhx.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Icefoxzhx/Icefoxzhx.github.io"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : https://twitter.com/icefox1104
+  twitter          : icefox1104
   vine             :
   weibo            :
   xing             :
