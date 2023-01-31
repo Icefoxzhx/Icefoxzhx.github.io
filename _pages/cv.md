@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-<iframe src="/files/CV_Hongxin.pdf" style="width: 800px;height: 2100px;border: none;"></iframe>
+<iframe src="/files/CV_HongxinZhang.pdf" style="width: 800px;height: 2100px;border: none;"></iframe>
