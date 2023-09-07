@@ -7,7 +7,7 @@ author_profile: true
 
 - **Building Cooperative Embodied Agents Modularly with Large Language Models**
 
-  **Hongxin Zhang$^*$**, Weihua Du$^*$, Jiaming Shan, Qinhong Zhou, Yilun Du, Joshua B. Tenenbaum, Tianmin Shu, Chuang Gan
+  **Hongxin Zhang\***, Weihua Du\*, Jiaming Shan, Qinhong Zhou, Yilun Du, Joshua B. Tenenbaum, Tianmin Shu, Chuang Gan
 
   Preprint [[Project](https://vis-www.cs.umass.edu/Co-LLM-Agents/)] [[Arxiv](https://arxiv.org/abs/2307.02485)] [[Code](https://github.com/UMass-Foundation-Model/Co-LLM-Agents/)]
 
