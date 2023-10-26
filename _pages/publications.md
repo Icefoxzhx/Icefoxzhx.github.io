@@ -11,6 +11,12 @@ author_profile: true
 
   Preprint [[Project](https://vis-www.cs.umass.edu/Co-LLM-Agents/)] [[Arxiv](https://arxiv.org/abs/2307.02485)] [[Code](https://github.com/UMass-Foundation-Model/Co-LLM-Agents/)]
 
+- **SALMON: Self-Alignment with Principle-Following Reward Models**
+  
+  Zhiqing Sun, Yikang Shen, **Hongxin Zhang**, Qinhong Zhou, Zhenfang Chen, David Cox, Yiming Yang, Chuang Gan
+
+  Preprint [[Project](https://github.com/IBM/SALMON)] [[Arxiv](https://arxiv.org/abs/2310.05910)] [[Code](https://github.com/IBM/SALMON)]
+
 - **Principle-Driven Self-Alignment of Language Models from Scratch with Minimal Human Supervision**
   
   Zhiqing Sun, Yikang Shen, Qinhong Zhou, **Hongxin Zhang**, Zhenfang Chen, David Cox, Yiming Yang, Chuang Gan
