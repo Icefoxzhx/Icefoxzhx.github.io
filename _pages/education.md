@@ -7,8 +7,11 @@ author_profile: true
 
 ## Education
 
+<img src="../images/umass-amherst.png" alt="sjtu" width="60" height="60" style="float: left" />&emsp; [University of Massachusetts Amherst](https://www.cics.umass.edu/)  
+&emsp; Ph.D. in Computer Science. Sep. 2023 - Present
+
 <img src="../images/sjtu.png" alt="sjtu" width="60" height="60" style="float: left" />&emsp; [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/)  
-&emsp; B.Eng. in Computer Science. Sep. 2019 - Present
+&emsp; B.Eng. in Computer Science. Sep. 2019 - June 2023
 
 ## Research Experience
 
